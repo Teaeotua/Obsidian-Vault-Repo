@@ -7,8 +7,6 @@ Hyperlinks:
 - [[#Functions]]
 - [[#Files]]
 - [[#Import]]
-
-
 # Variables
 
 Variables allow you to store and update data in a computer program. You have a variable name and store data to that name.  
