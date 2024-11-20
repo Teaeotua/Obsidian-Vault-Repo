@@ -42,7 +42,7 @@ Anadilleri farklı olan konuşucuların ortak kullanılan dildir, iletişimi kol
 
 Günümüzde bu dil İngilizcedir. Esperanto, Auxiliary language gibi yapay diller Lingua franca olmak amacıyla ortaya çıkmışlardır
 
-Herhangi dil grupları arasında genellikle sömürgesel güç olan halkın anadili diğer di tarafından ikinci dil olarak öğrenilir 
+Herhangi dil grupları arasında genellikle sömürgesel güç olan halkın anadili diğer dil konuşucuları tarafından ikinci dil olarak öğrenilir 
 ### Pidgin (Karma dil)
 
 
