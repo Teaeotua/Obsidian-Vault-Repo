@@ -48,6 +48,6 @@ Gezginler, Tüccarlar gibi iki veya daha fazla farklı dilin konuşulduğu bölg
 Pidginler kısa ömürlüdürler, konuşucuları dili kullanma amaçlarını yitirdiğinde yok olurlar.
 Anadil olarak edinilmezler, anadil olduklarında creole kategorisine girerler.
 
-
+Osmanlıca karma dile örnek verilebilir.
 ### Creole (Kırma dil)
 
