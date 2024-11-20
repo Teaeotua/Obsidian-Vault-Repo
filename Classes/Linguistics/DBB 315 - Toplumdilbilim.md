@@ -52,18 +52,18 @@ Osmanlıca karma dile örnek verilebilir.
 ##### Pidginleşme
 Bir dilin basitleşmesi.
 
-**Sesbilimsel çeşitliliğin azalması**
-[Tok Pisin](https://tr.wikipedia.org/wiki/Tok_Pisin)de 5 ünlü ses olduğundan çok fazla homophone bulunuyor.
+- **Sesbilimsel çeşitliliğin azalması**
+- [Tok Pisin](https://tr.wikipedia.org/wiki/Tok_Pisin)de 5 ünlü ses olduğundan çok fazla homophone bulunuyor.
 
-**Biçimbilimsel daralma**
-Type/Typical, Space/Spacious,
-Cats, Dogs, Oxen gibi Biçimler yok.
+- **Biçimbilimsel daralma**
+  Type/Typical, Space/Spacious,
+   Cats, Dogs, Oxen gibi Biçimler yok.
 
-I-ME He-Him gibi çeşitlilikler yok
-We için Yumi kullanılıyor.
+- I-ME He-Him gibi çeşitlilikler yok
+   We için Yumi kullanılıyor.
 
-**Sözdizimsel daralma**
-İç tümce gibi yapılar bulundurmaya SOV basitliğinde kalan bir sözdizimi kullanımı mevcut
-•It’s not too hard =İ no tu had
+- **Sözdizimsel daralma**
+- İç tümce gibi yapılar bulundurmaya SOV basitliğinde kalan bir sözdizimi kullanımı mevcut
+- It’s not too hard = I no tu had
 ### Creole (Kırma dil)
 
