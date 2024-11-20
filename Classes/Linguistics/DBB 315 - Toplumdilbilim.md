@@ -83,6 +83,7 @@ Creoleleşme:
 - Sözvarlığında rasyonel ve durağan bir artış içerir
 # İkidillilik
 
-
+Language shift (Dil değişimi)
+Bir dil ya da lehçenin zaman içinde değişime uğraması
 
 
