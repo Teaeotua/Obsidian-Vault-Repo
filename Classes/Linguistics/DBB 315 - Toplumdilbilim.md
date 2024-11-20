@@ -30,3 +30,4 @@ Soyut biçimde mantık yürütme, soyut önermeler arasında mantıksal ilişki 
 
 MERHABA :3
 SLM
+EMRECİM
