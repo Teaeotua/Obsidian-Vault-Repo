@@ -54,10 +54,14 @@ Bir dilin basitleşmesi.
 
 **Sesbilimsel çeşitliliğin azalması**
 [Tok Pisin](https://tr.wikipedia.org/wiki/Tok_Pisin)de 5 ünlü ses olduğundan çok fazla homophone bulunuyor.
+
 **Biçimbilimsel Özellikler daraldığında**
 Type/Typical, Space/Spacious,
 Cats, Dogs, Oxen gibi Biçimler yok.
 
 I-ME He-Him gibi çeşitlilikler yok
+We için Yumi kullanılıyor.
+
+
 ### Creole (Kırma dil)
 
