@@ -44,7 +44,7 @@ Günümüzde bu dil İngilizcedir. Esperanto, Auxiliary language gibi yapay dill
 
 Herhangi dil grupları arasında genellikle sömürgeci güç olan halkın anadili diğer dil konuşucuları tarafından ikinci dil olarak öğrenilir 
 ### Pidgin (Karma dil)
-Gezginler, Tüccarlar gibi iki veya daha fazla farklı dilin konuşulduğu ir anadilin dilbilgisi ve sözvarlığı basitleştirilir
-
+Gezginler, Tüccarlar gibi iki veya daha fazla farklı dilin konuşulduğu bölgede bir anadilin dilbilgisi ve sözvarlığı iletişimi kolaylaştırma amacıyla basitleştirilir.
+Pidginler kısa ömürlüdürler. Ko
 ### Creole (Kırma dil)
 
