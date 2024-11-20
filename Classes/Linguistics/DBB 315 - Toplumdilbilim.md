@@ -67,9 +67,10 @@ Bir dilin basitleşmesi.
   
 - **Sözvarlığında daralma**
    Stare = Loollook
+   
 - **Kullanım işlevleri azalır**
-  
   Bir Pidginle roman veya bir anayasa yazılmaz
   Yerel dillerden sık sık sözcük alır
 ### Creole (Kırma dil)
 
+Creoller anadillerdir, doğal konuşucuları bulunur
