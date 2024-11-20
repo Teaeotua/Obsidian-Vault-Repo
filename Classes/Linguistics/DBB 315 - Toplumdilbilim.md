@@ -31,9 +31,13 @@ Soyut biçimde mantık yürütme, soyut önermeler arasında mantıksal ilişki 
 
 # Özel diller
 
-- Lingua franca (Geçer dil)
+- [[#Lingua Franca (Geçer dil)]]
 - Pidgin (Karma dil)
 - Creole (Kırma dil)
 
-Lingua Franca 
+### Lingua Franca (Geçer dil)
+
+Pidgin (Karma dil)
+
+Creole 
 
