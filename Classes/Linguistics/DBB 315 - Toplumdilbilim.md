@@ -46,5 +46,6 @@ Herhangi dil grupları arasında genellikle sömürgeci güç olan halkın anadi
 ### Pidgin (Karma dil)
 Gezginler, Tüccarlar gibi iki veya daha fazla farklı dilin konuşulduğu bölgede bir anadilin dilbilgisi ve sözvarlığı iletişimi kolaylaştırma amacıyla basitleştirilir.
 Pidginler kısa ömürlüdürler, konuşucuları dili kullanma amaçlarını yitirdiğinde yok olurlar.
+An
 ### Creole (Kırma dil)
 
