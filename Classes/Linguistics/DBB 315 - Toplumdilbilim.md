@@ -63,6 +63,7 @@ I-ME He-Him gibi çeşitlilikler yok
 We için Yumi kullanılıyor.
 
 **Sözdizimsel daralma**
-Basitleştirilmiş bir sözdizimi 
+İç tümce gibi yapılar bulundurmaya SOV basitliğinde kalan bir sözdizimi kullanımı mevcut
+•It’s not too hard =İ no tu had
 ### Creole (Kırma dil)
 
