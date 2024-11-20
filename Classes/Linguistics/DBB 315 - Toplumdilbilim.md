@@ -53,7 +53,7 @@ Osmanlıca karma dile örnek verilebilir.
 Bir dilin basitleşmesi.
 
 **Sesbilimsel çeşitliliğin azalması**
-
+Tok pisin
 
 
 ### Creole (Kırma dil)
