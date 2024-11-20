@@ -38,8 +38,7 @@ Soyut biçimde mantık yürütme, soyut önermeler arasında mantıksal ilişki 
 ### Lingua Franca (Geçer dil)
 
 Anadilleri farklı olan konuşucuların ortak kullanılan dildir, iletişimi kolaylaştırma işlevi görür.
-
-
+Çok f
 ### Pidgin (Karma dil)
 
 ### Creole (Kırma dil)
