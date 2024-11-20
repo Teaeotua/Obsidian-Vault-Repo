@@ -68,13 +68,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Linguistics/DBB 315 - Toplumdilbilim.md",
+                "file": "Classes/Linguistics/DBB 401 - Sözcükbilim ve Sözlükçülük.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DBB 315 - Toplumdilbilim"
+              "title": "DBB 401 - Sözcükbilim ve Sözlükçülük"
             }
           }
         ],
@@ -206,10 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Linguistics/DBB 315 - Toplumdilbilim.md"
+                "file": "Classes/Linguistics/DBB 401 - Sözcükbilim ve Sözlükçülük.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DBB 315 - Toplumdilbilim"
+              "title": "Outline of DBB 401 - Sözcükbilim ve Sözlükçülük"
             }
           },
           {
@@ -254,11 +254,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "355148b251ab7211",
+  "active": "766e60f4672199e0",
   "lastOpenFiles": [
+    "Classes/Linguistics/DBB 403 - Dil Edinimi.md",
+    "Classes/Linguistics/DBB 315 - Toplumdilbilim.md",
     "Classes/Linguistics/DBB 313 - Sesbilim Çalışmaları.md",
     "Japanese/Grammar/Counters.md",
-    "Classes/Linguistics/DBB 315 - Toplumdilbilim.md",
     "Classes/Linguistics/DBB 401 - Sözcükbilim ve Sözlükçülük.md",
     "Calendar/Events/2024-11-20 Cancelled.md",
     "Books/Manga/Shounen/Noragami.md",
@@ -282,7 +283,6 @@
     "Calendar/Miscellaneous/(Every M) Leave for school.md",
     "Calendar/Miscellaneous/(Every R) Leave for school.md",
     "Calendar/Miscellaneous/(Every W) Leave for school.md",
-    "Calendar/Routines/(Every R) Reading for the class.md",
     "Calendar/Classes",
     "Calendar/Sessions",
     "Calendar/Miscellaneous",
