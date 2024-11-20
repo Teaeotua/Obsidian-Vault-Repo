@@ -40,7 +40,7 @@ https://depo.pegem.net/9786256357921.pdf
 Anadilleri farklı olan konuşucuların ortak kullanılan dildir, iletişimi kolaylaştırma işlevi görür.
 Özellikle çok dilli toplumlarda iletişimi kolaylaştırır.
 
-Günümüzde bu dil İngilizcedir.
+Günümüzde bu dil İngilizcedir. Esperanto, Auxilary language
 
 ### Pidgin (Karma dil)
 
