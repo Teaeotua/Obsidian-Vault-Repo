@@ -81,5 +81,8 @@ Creoleleşme:
 - Sesbilimsel özelliklerin düzenlenmesini içerir
 - Dilin kullanım işlevlerinin artmasını içerir
 - Sözvarlığında rasyonel ve durağan bir artış içerir
+# İkidillilik
+
+
 
 
