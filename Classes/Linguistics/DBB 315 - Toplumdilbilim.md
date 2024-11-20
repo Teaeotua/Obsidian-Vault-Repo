@@ -83,7 +83,6 @@ Creoleleşme:
 - Dilin kullanım işlevlerinin artmasını içerir
 - Sözvarlığında rasyonel ve durağan bir artış içerir
 # İkidillilik
-
 ### **1. İkidillilik Kavramı**
 
 **Bireysel ve Toplumsal İkidillilik**
@@ -128,8 +127,6 @@ Creoleleşme:
 
 - Bir dilin diğerine baskın olduğu, zayıf olan dilin baskın dile göre yorumlandığı durumdur. Sosyodilbilim bu durumu, dilsel baskı ve güç ilişkileri bağlamında inceler.
 
----
-
 ### **4. Dil Kaybı ve Dil Yıpranması**
 
 **Dil Kaybı (Language Loss)**
@@ -141,8 +138,6 @@ Creoleleşme:
 
 - Bir bireyin dil becerilerinin zamanla azalması ancak geri öğrenme ihtimalinin olması.
     - Örneğin, göçmenlerin yeni bir ülkede eski dillerini daha az kullanmaları dil yıpranmasına yol açabilir. Bu durum, genellikle sosyal izolasyon ve azınlık dili konuşma fırsatlarının sınırlı olmasıyla ilişkilidir.
-
----
 
 ### **5. Dilsel Beceri Seviyeleri**
 
