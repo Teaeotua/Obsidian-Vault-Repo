@@ -84,10 +84,88 @@ Creoleleşme:
 - Sözvarlığında rasyonel ve durağan bir artış içerir
 # İkidillilik
 
-### Language shift (Dil değişimi)
+### **1. İkidillilik Kavramı**
 
-Bir dil ya da lehçenin zaman içinde değişime uğraması
-İki dil/lehçe ayrı ayrı var olurken birinin diğerinin yerini alması durumu
-Baskın dilin ölümü gibi sonuçlar doğurabilir
-### Language loss (Dil kaybı)
+**Bireysel ve Toplumsal İkidillilik**
+
+- **Bireysel ikidillilik:** Birey, iki dili ana dili düzeyinde öğrenir. Sosyodilbilimde, bireysel ikidillilik, bir bireyin dil kullanımının sosyal bağlamdaki çeşitliliğini anlamaya yardımcı olur. Örneğin, bir birey evde bir dil (minority language), okulda veya işte başka bir dil (majority language) konuşabilir.
+    
+    - _Araştırma Örneği_: Grosjean (1989), bireysel ikidilliliğin bir statik durum olmadığını, bireylerin bağlama göre farklı dillerde yetkinlik gösterdiğini belirtir.
+- **Toplumsal ikidillilik:** Farklı dil topluluklarının bir arada bulunduğu durumdur. Bu türde, genellikle bir "major" ve bir "minor" dil arasında güç ilişkisi vardır.
+    
+    - _Örnek_: Hindistan’da İngilizce’nin major dil, yerel dillerin ise minor dil olması. Burada İngilizce’nin sosyal prestiji, eğitim ve iş fırsatlarına erişimi artırır.
+    - _Fishman (1972)_, toplumsal ikidilliliği, farklı sosyal bağlamlarda hangi dilin kullanıldığını belirleyen dil alanları (domains of language use) kavramıyla açıklar.
+
+---
+
+### **2. Dil Edinimi ve Dil Öğrenimi**
+
+**Edinim (Language Acquisition)**
+
+- Doğal ortamda gerçekleşir ve genellikle çocukluk döneminde gerçekleşir. Sosyodilbilim açısından, dil edinimi bağlamında _inputun_ (dil girdisinin) niteliği önemlidir. Çocukların farklı sosyal çevrelerde farklı dil modellerine maruz kalması, iki dilde de yetkinlik kazanmasına olanak tanır.
+
+**Dil Öğrenimi (Language Learning)**
+
+- Formal eğitim ortamlarında bilinçli olarak gerçekleşir. İkinci dil öğreniminde, sosyal faktörler, motivasyon ve dilin prestiji önemli rol oynar.
+    - _Gardner and Lambert (1972)_, ikinci dil öğrenimindeki başarının, bireyin motivasyonu (entegratif veya araçsal) ile yakından ilişkili olduğunu göstermiştir.
+
+---
+
+### **3. Bilişsel Yapılanmalar ve İkidillilik**
+
+**Birleşik İkidillilik (Compound Bilingualism)**
+
+- İki dil, ortak bir kavram dizgesi üzerinde işlem görür. Örneğin, "ağaç" ve "tree" sözcükleri aynı kavram evrenine sahiptir.
+    - Sosyodilbilim açısından, birleşik ikidillilik genellikle iki dilin aynı bağlamlarda kullanılmasından kaynaklanır. Bu durum, bireyin diller arasında geçiş yapmasını kolaylaştırır ancak kavramsal farklılıkların algılanmasını zorlaştırabilir.
+
+**Sıralı İkidillilik (Coordinate Bilingualism)**
+
+- Her dilin bağımsız bir kavram sistemine sahip olduğu durumdur. İki dil farklı bağlamlarda öğrenilir ve kullanılır.
+    - Örneğin, bir birey evde Türkçe, okulda İngilizce konuştuğunda her iki dilin farklı anlam dünyalarını geliştirir.
+    - _Araştırma Örneği_: Peal and Lambert (1962), sıralı ikidilliliğin bireylerin bilişsel esnekliğini artırabileceğini savunur.
+
+**Alt-Sıralı İkidillilik (Subordinate Bilingualism)**
+
+- Bir dilin diğerine baskın olduğu, zayıf olan dilin baskın dile göre yorumlandığı durumdur. Sosyodilbilim bu durumu, dilsel baskı ve güç ilişkileri bağlamında inceler.
+
+---
+
+### **4. Dil Kaybı ve Dil Yıpranması**
+
+**Dil Kaybı (Language Loss)**
+
+- Bireyin veya bir grubun bir dili tamamen kaybetmesi.
+    - Sosyodilbilimde, dil kaybı genellikle dilsel azınlıkların major bir dile asimile olmasıyla ilişkilidir. _Crystal (2000)_, dil kaybının kültürel ve kimliksel kayıplara da yol açabileceğini vurgular.
+
+**Dil Yıpranması (Language Attrition)**
+
+- Bir bireyin dil becerilerinin zamanla azalması ancak geri öğrenme ihtimalinin olması.
+    - Örneğin, göçmenlerin yeni bir ülkede eski dillerini daha az kullanmaları dil yıpranmasına yol açabilir. Bu durum, genellikle sosyal izolasyon ve azınlık dili konuşma fırsatlarının sınırlı olmasıyla ilişkilidir.
+
+---
+
+### **5. Dilsel Beceri Seviyeleri**
+
+**Dengeli İkidillilik (Balanced Bilingualism)**
+
+- Birey, her iki dilde eşit yetkinliğe sahiptir ve bağlama uygun dil seçimleri yapabilir.
+    - Dengeli ikidillilik, toplumsallaşmayı olumlu etkiler ve bireyin iki kültürde de etkili şekilde işlev görmesine olanak tanır.
+    - _Örnek_: Kanada’da iki resmi dilin (İngilizce ve Fransızca) eşit şekilde kullanımı.
+
+**Baskın İkidillilik (Dominant Bilingualism)**
+
+- Bireyin bir dilde daha yetkin olması. Sosyodilbilimde, baskın dil genellikle bireyin içinde bulunduğu sosyal çevrenin gereksinimlerine bağlıdır.
+
+**Sınırlı İkidillilik (Limited Bilingualism)**
+
+- Her iki dilde de düşük beceri seviyesini ifade eder. Sosyal olarak marjinalleşmeye ve eğitimde başarısızlığa yol açabilir.
+    - _Örnek_: Göçmen topluluklardaki çocukların hem ana dilinde hem de ikinci dilde yetersiz kalması.
+
+---
+
+### **6. İkidilliliği Etkileyen Faktörler**
+
+- **Dil girdisinin kalitesi:** Çocukların dil edinimi, maruz kaldıkları dilin nicelik ve niteliğine bağlıdır.
+- **Dil prestiji:** Sosyodilbilimde, bir dilin toplumdaki prestiji, o dilin kullanımını ve bireylerin motivasyonunu doğrudan etkiler.
+- **Kritik dönem:** 0-5 yaş arasındaki dil öğrenme yetisi, sosyodilbilim açısından dilsel kimlik gelişimiyle ilişkilidir.
 
