@@ -73,5 +73,15 @@ Bir dilin basitleşmesi.
   Yerel dillerden sık sık sözcük alır
 ### Creole (Kırma dil)
 
-Creoller anadillerdir, doğal konuşucuları bulunur
-Pidginlerden doğdukları için bir çok yönden daralmış bir dilin yeniden inşası gibidirler ve diğer dillere göre eksik hissettirebilirler
+- Creoller anadillerdir, doğal konuşucuları bulunur
+- Pidginlerden doğdukları için bir çok yönden daralmış bir dilin yeniden inşası gibidirler ve diğer dillere göre eksik hissettirebilirler
+
+Kreolleşme
+
+Biçimsel ve sözdizimsel özelliklerin genişlemesini içerir
+
+Sesbilimsel özelliklerin düzenlenmesini içerir
+Dilin kullanım işlevlerinin artmasını içerir
+Sözvarlığında rasyonel ve durağan bir artış içerir
+
+Örn: Karayip Kreolü, Haiti Kreolü,
