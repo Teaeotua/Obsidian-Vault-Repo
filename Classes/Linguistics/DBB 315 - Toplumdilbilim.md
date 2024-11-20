@@ -64,10 +64,12 @@ Bir dilin basitleşmesi.
 - **Sözdizimsel daralma**
   İç tümce gibi yapılar bulundurmaya SOV basitliğinde kalan bir sözdizimi kullanımı mevcut
   It’s not too hard = I no tu had
-**Sözvarlığında daralma**
-Stare = Loollook
-**Kullanım işlevleri azalır**
-Bir Pidginle roman veya bir anayasa yazılmaz
-Yerel dillerden sık sık söz
+  
+- **Sözvarlığında daralma**
+   Stare = Loollook
+- **Kullanım işlevleri azalır**
+  
+  Bir Pidginle roman veya bir anayasa yazılmaz
+  Yerel dillerden sık sık sözcük alır
 ### Creole (Kırma dil)
 
