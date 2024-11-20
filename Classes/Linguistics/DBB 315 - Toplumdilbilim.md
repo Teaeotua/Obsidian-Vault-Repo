@@ -32,11 +32,11 @@ Soyut biçimde mantık yürütme, soyut önermeler arasında mantıksal ilişki 
 https://depo.pegem.net/9786256357921.pdf
 
 # Özel diller
-
 - [[#Lingua Franca (Geçer dil)]]
 - [[#Pidgin (Karma dil)]]
 - [[#Creole (Kırma dil)]]
 ### Lingua Franca (Geçer dil)
+
 Anadilleri farklı olan konuşucuların ortak kullanılan dildir, iletişimi kolaylaştırma işlevi görür.
 Özellikle çok dilli toplumlarda iletişimi kolaylaştırır.
 
@@ -44,6 +44,7 @@ Günümüzde bu dil İngilizcedir. Esperanto, Auxiliary language gibi yapay dill
 
 Herhangi dil grupları arasında genellikle sömürgeci güç olan halkın anadili diğer dil konuşucuları tarafından ikinci dil olarak öğrenilir 
 ### Pidgin (Karma dil)
+
 Gezginler, Tüccarlar gibi iki veya daha fazla farklı dilin konuşulduğu bölgede bir anadilin dilbilgisi ve sözvarlığı iletişimi kolaylaştırma amacıyla basitleştirilir.
 Pidginler kısa ömürlüdürler, konuşucuları dili kullanma amaçlarını yitirdiğinde yok olurlar.
 Anadil olarak edinilmezler, anadil olduklarında creole kategorisine girerler.
@@ -60,7 +61,7 @@ Bir dilin basitleşmesi.
    Cats, Dogs, Oxen gibi Biçimler yok.
    I-ME He-Him gibi çeşitlilikler yok
    We için Yumi kullanılıyor.
-
+   
 - **Sözdizimsel daralma**
   İç tümce gibi yapılar bulundurmaya SOV basitliğinde kalan bir sözdizimi kullanımı mevcut
   It’s not too hard = I no tu had
