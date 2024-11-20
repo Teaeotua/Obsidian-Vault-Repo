@@ -74,4 +74,4 @@ Bir dilin basitleşmesi.
 ### Creole (Kırma dil)
 
 Creoller anadillerdir, doğal konuşucuları bulunur
-P
+Pidginlerden doğdukları için bir çok yönden daralmış bir dilin yeniden inşası gibidirler ve diğer dillere göre eksik hissettirebilirler
