@@ -49,5 +49,9 @@ Pidginler kısa ömürlüdürler, konuşucuları dili kullanma amaçlarını yit
 Anadil olarak edinilmezler, anadil olduklarında creole kategorisine girerler.
 
 Osmanlıca karma dile örnek verilebilir.
+##### Pidginleşme
+Bir dilin basitleşmesi.
+
+
 ### Creole (Kırma dil)
 
