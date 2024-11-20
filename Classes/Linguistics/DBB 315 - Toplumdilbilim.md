@@ -95,8 +95,6 @@ Creoleleşme:
     - _Örnek_: Hindistan’da İngilizce’nin major dil, yerel dillerin ise minor dil olması. Burada İngilizce’nin sosyal prestiji, eğitim ve iş fırsatlarına erişimi artırır.
     - _Fishman (1972)_, toplumsal ikidilliliği, farklı sosyal bağlamlarda hangi dilin kullanıldığını belirleyen dil alanları (domains of language use) kavramıyla açıklar.
 
----
-
 ### **2. Dil Edinimi ve Dil Öğrenimi**
 
 **Edinim (Language Acquisition)**
@@ -107,8 +105,6 @@ Creoleleşme:
 
 - Formal eğitim ortamlarında bilinçli olarak gerçekleşir. İkinci dil öğreniminde, sosyal faktörler, motivasyon ve dilin prestiji önemli rol oynar.
     - _Gardner and Lambert (1972)_, ikinci dil öğrenimindeki başarının, bireyin motivasyonu (entegratif veya araçsal) ile yakından ilişkili olduğunu göstermiştir.
-
----
 
 ### **3. Bilişsel Yapılanmalar ve İkidillilik**
 
@@ -155,8 +151,6 @@ Creoleleşme:
 
 - Her iki dilde de düşük beceri seviyesini ifade eder. Sosyal olarak marjinalleşmeye ve eğitimde başarısızlığa yol açabilir.
     - _Örnek_: Göçmen topluluklardaki çocukların hem ana dilinde hem de ikinci dilde yetersiz kalması.
-
----
 
 ### **6. İkidilliliği Etkileyen Faktörler**
 
