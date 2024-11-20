@@ -88,5 +88,6 @@ Creoleleşme:
 
 Bir dil ya da lehçenin zaman içinde değişime uğraması
 İki dil/lehçe ayrı ayrı var olurken birinin diğerinin yerini alması durumu
-Baskın dilin ölümü gibi sonuç
+Baskın dilin ölümü gibi sonuçlar doğurabilir
+### Language loss (Dil kaybı)
 
