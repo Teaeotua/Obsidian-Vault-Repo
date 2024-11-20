@@ -66,7 +66,8 @@ Bir dilin basitleşmesi.
   It’s not too hard = I no tu had
 **Sözvarlığında daralma**
 Stare = Loollook
-Kullanım işle
-
+**Kullanım işlevleri azalır**
+Bir Pidginle roman veya bir anayasa yazılmaz
+Yerel dillerden sık sık söz
 ### Creole (Kırma dil)
 
