@@ -52,6 +52,9 @@ Osmanlıca karma dile örnek verilebilir.
 ##### Pidginleşme
 Bir dilin basitleşmesi.
 
+**Sesbilimsel çeşitliliğin azalması**
+
+
 
 ### Creole (Kırma dil)
 
