@@ -76,12 +76,8 @@ Bir dilin basitleşmesi.
 - Creoller anadillerdir, doğal konuşucuları bulunur
 - Pidginlerden doğdukları için bir çok yönden daralmış bir dilin yeniden inşası gibidirler ve diğer dillere göre eksik hissettirebilirler
 
-Kreolleşme
-
-Biçimsel ve sözdizimsel özelliklerin genişlemesini içerir
-
-Sesbilimsel özelliklerin düzenlenmesini içerir
-Dilin kullanım işlevlerinin artmasını içerir
-Sözvarlığında rasyonel ve durağan bir artış içerir
-
-Örn: Karayip Kreolü, Haiti Kreolü,
+Creoleleşme:
+- Biçimsel ve sözdizimsel özelliklerin genişlemesini içerir
+- Sesbilimsel özelliklerin düzenlenmesini içerir
+- Dilin kullanım işlevlerinin artmasını içerir
+- Sözvarlığında rasyonel ve durağan bir artış içerir
