@@ -47,6 +47,14 @@ Labov, dilin tekdüze bir yapıdan ibaret olmadığını ve konuşmacıların di
 
 - Konuşmacılar, bağlama ve muhataplarına göre dil stilini değiştirebilirler.
     - _Örnek_: Resmi bir ortamda daha standart bir dil, gayriresmi bir ortamda ise bölgesel ağız tercih edilebilir.
+
+
+
+
+
+
+
+
 https://depo.pegem.net/9786256357921.pdf
 
 # Özel diller
