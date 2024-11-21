@@ -1,11 +1,12 @@
 ---
 Money Spent: 0
 Exercise: 0
-Reading: []
+Reading: 
 Writing: 
 Studying: 0
 Routines: 
-Social life:
+Social life: 
+TryHackMe:
 ---
 
 
