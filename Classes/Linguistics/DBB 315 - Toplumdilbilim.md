@@ -28,7 +28,25 @@ Somut nesneler ve olaylar arasındaki mantıksal ilişkiler, [Piaget](https://t
 
 Soyut biçimde mantık yürütme, soyut önermeler arasında mantıksal ilişki kurma ve bu ilişkileri test etme eylemleriyse normal olarak 12 yaş ve sonrasında ulaşılması beklenen ve yine [Piaget](https://tr.wikipedia.org/wiki/Piaget "Piaget")'nin biçimsel/işlemsel evre olarak adlandırdığı evrenin karakteristik eylemleridir.
 
-*Buraya William Labov’un dil değişkeleriyle ilgili kuramını yazmak lazım aslında*
+### Değişken Kuramı
+
+Labov, dilin tekdüze bir yapıdan ibaret olmadığını ve konuşmacıların dilsel özelliklerini sürekli olarak değiştirdiğini savunur. Kuramın temel özellikleri şunlardır:
+
+#### **1. Dil Değişkenleri (Linguistic Variables)**
+
+- Dil değişkenleri, bir dilde aynı anlamı ifade edebilen ancak farklı biçimlerde gerçekleşebilen dilsel öğelerdir.
+    - _Örnek_: İngilizcede _r_-sesletimi (post-vocalic _r_) New York’ta "car" kelimesinde /ka:/ veya /kar/ olarak farklı şekillerde telaffuz edilebilir.
+- Değişkenlerin kullanımı, sosyal sınıf, cinsiyet, yaş, etnik köken ve konuşulan bağlama bağlıdır.
+
+#### **2. Sosyal Anlam ve Dil Kullanımı**
+
+- Her dilsel değişken, konuşmacının toplumsal kimliğini ve grubunu yansıtır.
+    - _Örnek_: Afro-Amerikan İngilizcesi (AAVE), bir etnik kimliği ve toplumsal aidiyeti ifade ederken, standart İngilizce prestijli bir dil olarak kabul edilir.
+
+#### **3. Stil ve Biçem (Style and Register)**
+
+- Konuşmacılar, bağlama ve muhataplarına göre dil stilini değiştirebilirler.
+    - _Örnek_: Resmi bir ortamda daha standart bir dil, gayriresmi bir ortamda ise bölgesel ağız tercih edilebilir.
 https://depo.pegem.net/9786256357921.pdf
 
 # Özel diller
