@@ -72,3 +72,7 @@ However, an interesting thing with MAC addresses is that they can be faked or "s
 
 Places such as cafes, coffee shops, and hotels alike often use MAC address control when using their "Guest "or "Public" Wi-Fi. This configuration could offer better services, i.e. a faster connection for a price if you are willing to pay the fee per device.
 
+# Ping (ICMP)
+
+Ping is one of the most fundamental network tools available to us. Ping uses **ICMP** (**I**nternet **C**ontrol **M**essage **P**rotocol) packets to determine the performance of a connection between devices
+
