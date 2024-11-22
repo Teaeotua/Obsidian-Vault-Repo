@@ -74,5 +74,6 @@ Places such as cafes, coffee shops, and hotels alike often use MAC address contr
 
 # Ping (ICMP)
 
-Ping is one of the most fundamental network tools available to us. Ping uses **ICMP** (**I**nternet **C**ontrol **M**essage **P**rotocol) packets to determine the performance of a connection between devices
+Ping is one of the most fundamental network tools available to us. Ping uses **ICMP** (**I**nternet **C**ontrol **M**essage **P**rotocol) packets to determine the performance of a connection between devices.
+
 
